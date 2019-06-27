@@ -1,4 +1,4 @@
-# File: build-an-epic.py
+# File: jiraBuildAnEpic.sh
 # This script will build an epic based upon a the provided csv file
 
 # include standard modules
