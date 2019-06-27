@@ -1,0 +1,12 @@
+Issue Type,Summary,Description,Priority,Labels,Epic Link,Comments
+Epic,<capability> evaluated and selected,"This epic encompasses the stories required to make a product selection for <capability>.
+Once all the linked stories are completed this epic should be closed.",Medium,MyLabel,,
+Story,<capability> use cases and requirements defined,"Use cases for capability and requirements are documented in a Decision Log Template
+Include requirements from key stakeholders",Medium,MyLabel,,
+Story,<capability> potential products assessed,potential products are documented in the Decision Log Template,Medium,MyLabel,,
+Story,<capability> candidates selected,A set of candidates for this capability have been selected out of the potential products and documented in Decision Log Template,Medium,MyLabel,,
+Story,<capability> products evaluated,complete an evaluation of candidate products against use cases and requirements,Medium,MyLabel,,
+Story,<capability> product evaluations documented,Use cases for capability and requirements are documented in the Decision Log Template,Medium,MyLabel,,
+Story,<capability> product selected,Use cases for capability and requirements are documented in the Decision Log Template,Medium,MyLabel,,
+Story,<capability> product decision logged,"Meeting held with key stakeholders.
+Meeting and decision documented in decision log",Medium,MyLabel,,
