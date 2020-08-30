@@ -57,17 +57,17 @@ get_code() {
 	sudo apt-get install code -y
 	sudo apt-get install libxss1 libasound2 -y
 
-	code --install-extension ms-python.python
-	code --install-extension mauve.terraform
-	code --install-extension erd0s.terraform-autocomplete
-	code --install-extension run-at-scale.terraform-doc-snippets
-	code --install-extenstion tsandall.opa
-	code --install-extension quicktype.quicktype
-	code --install-extension eamodio.gitlens
-	code --install-extension ms-vscode.go
-	code --install-extension peterjausovec.vscode-docker
-	code --install-extension yzhang.markdown-all-in-one
-	code --install-extension shd101wyy.markdown-preview-enhanced
+	#code --install-extension ms-python.python
+	#code --install-extension mauve.terraform
+	#code --install-extension erd0s.terraform-autocomplete
+	#code --install-extension run-at-scale.terraform-doc-snippets
+	#code --install-extenstion tsandall.opa
+	#code --install-extension quicktype.quicktype
+	#code --install-extension eamodio.gitlens
+	#code --install-extension ms-vscode.go
+	#code --install-extension peterjausovec.vscode-docker
+	#code --install-extension yzhang.markdown-all-in-one
+	#code --install-extension shd101wyy.markdown-preview-enhanced
 	
 	# code --install-extension Zignd.html-css-class-completion
 	# code --install-extension ecmel.vscode-html-css
@@ -147,7 +147,7 @@ printf "\n================\ninstall vs-code and extensions\n"
 get_code
 
 printf "\n================\ninstall postman\n"
-get_postman
+#get_postman
 
 sudo apt-get install nano
 conda install -c conda-forge awscli
